@@ -5,7 +5,7 @@ When you want to work on a certain part of a project (e.g new feature), instead 
 - This is the most common practice in robotics, as you will see many of the projects that we will work on are developed in seperate test branches, and only merged into main if they are meant to be used for the final robot codebase.
 
 ## Create a branch + navigate to it! 🔀
-1. Make sure you are on the master branch by entering `git checkout master`, this will navigate you to the master branch(use `git checkout <branch-name>` to navigate to different branches.)
+1. Make sure you are on the main branch by entering `git checkout main`, this will navigate you to the main branch(use `git checkout <branch-name>` to navigate to different branches.)
 2. Then to create the branch use `git branch git-training-first_name-last_initial`
 3. Great!! you just created your first branch. the next you will learn how to stage and commit changes and how to push them to the branch.
 

@@ -67,7 +67,7 @@ IMPORTANT DISCLAIMERS FOR REBASING:
    - Only exception to this rule is when you are certain no one on your team is using the commits or the branch you pushed.
 
 - Use rebase to catch up with the commits on another branch as you work with a local feature branch.
-   - Especially useful when working in long-running feature branches to check how your changes work with the latest updates on the master branch.
+   - Especially useful when working in long-running feature branches to check how your changes work with the latest updates on the main branch.
 
 - Can’t update a published branch with a push after you've rebased the local branch
    - Need to force push the branch to rewrite the history of the remote branch to match the local history

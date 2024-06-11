@@ -1,4 +1,4 @@
-> :warning: **make commits to this file in your seperate branch! this file is NOT to be modified in the `master` branch!**
+> :warning: **make commits to this file in your seperate branch! this file is NOT to be modified in the `main` branch!**
 
 ---
 
