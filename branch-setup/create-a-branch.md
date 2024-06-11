@@ -5,7 +5,7 @@ When you want to work on a certain part of a project (e.g new feature), instead 
 - This is the most common practice in robotics, as you will see many of the projects that we will work on are developed in seperate test branches, and only merged into main if they are meant to be used for the final robot codebase.
 
 ## Create a branch + navigate to it! 🔀
-1. Make sure you are on the main branch by entering `git checkout main`, this will navigate you to the main branch(use `git checkout <branch-name>` to navigate to different branches.)
+1. Make sure you are on the master branch by entering `git checkout master`, this will navigate you to the master branch(use `git checkout <branch-name>` to navigate to different branches.)
 2. Then to create the branch use `git branch git-training-first_name-last_initial`
 3. Great!! you just created your first branch. the next you will learn how to stage and commit changes and how to push them to the branch.
 
@@ -22,8 +22,13 @@ When you want to work on a certain part of a project (e.g new feature), instead 
     - `"(add/remove/delete) <present tense statement of what change you made>"`
 7. Now add a new file in 📁: /branch-setup, called `new-file-first_name-last_initial`.
 8. Stage the newly created file and commit ! (steps 4-6)
-9. Now write the name  of a software language that you know in the file. (or anything that is workplace friendly should be fine - the content of the file is unimportant for the exercise)
+> [!NOTE]
+> To write the commit message follow the instructions in this article on [How to Write Commit Messages](https://cbea.ms/git-commit/)
+9. Now write the name of your first pet that you know in the file. (or anything that is workplace friendly should be fine - the content of the file is unimportant for the exercise)
 10. Stage the changes to the file and commit. (steps 4-6)
+11. Now write the name of your favorite restaurant that you know in the same file on a new line. (or anything that is workplace friendly should be fine - the content of the file is unimportant for the exercise)
+12. Stage the changes to the file and commit. (steps 4-6)
+
 
 If you have completed everything in this document, you are set up for the practical. 
 Please take a close look at the prs.md, squashing.md, and cherry-and-tagging.md tutorials before arriving at the practical.
