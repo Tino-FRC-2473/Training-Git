@@ -3,10 +3,10 @@
 ---
 
 add your name to this file below:
-[*enter name here*]
+[Pragya Sharma]
 
 enter a fun fact about yourself below:
-[*enter fun fact here*]
+[I'm a black belt in Taekwondo!]
 
 ---
 
@@ -37,3 +37,5 @@ enter a fun fact about yourself below:
 approval status: ___
 
 signed by: ___
+
+date: 6/24/24
