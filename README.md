@@ -3,10 +3,10 @@
 ---
 
 add your name to this file below:
-[*enter name here*]
+Aayushya Patel
 
 enter a fun fact about yourself below:
-[*enter fun fact here*]
+I am learning MacOS development in swift!
 
 ---
 
