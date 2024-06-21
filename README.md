@@ -34,6 +34,8 @@ I am learning MacOS development in swift!
 
 ---
 
-approval status: ___
+approval status: approved
 
-signed by: ___
+signed by: AD
+
+June 20, 2024
