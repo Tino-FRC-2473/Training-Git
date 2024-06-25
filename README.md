@@ -3,10 +3,10 @@
 ---
 
 add your name to this file below:
-[*enter name here*]
+Tanish Nalli
 
 enter a fun fact about yourself below:
-[*enter fun fact here*]
+I Like robotics
 
 ---
 
