@@ -3,10 +3,10 @@
 ---
 
 add your name to this file below:
-[*enter name here*]
+Jaseer Abdulla
 
 enter a fun fact about yourself below:
-[*enter fun fact here*]
+I have a pet cat
 
 ---
 
@@ -34,6 +34,7 @@ enter a fun fact about yourself below:
 
 ---
 
-approval status: ___
+approval status: Approved
 
-signed by: ___
+signed by: AD
+7/1/2024
