@@ -3,10 +3,10 @@
 ---
 
 add your name to this file below:
-[*enter name here*]
+Sharvil Phadke
 
 enter a fun fact about yourself below:
-[*enter fun fact here*]
+I can be both really shy and really outgoing
 
 ---
 
@@ -34,6 +34,8 @@ enter a fun fact about yourself below:
 
 ---
 
-approval status: ___
+approval status: approved
 
-signed by: ___
+signed by: AD
+
+2 July 2024
