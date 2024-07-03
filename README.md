@@ -3,10 +3,10 @@
 ---
 
 add your name to this file below:
-[*enter name here*]
+Thejas Anoop Kumar
 
 enter a fun fact about yourself below:
-[*enter fun fact here*]
+I like boba
 
 ---
 
@@ -34,6 +34,8 @@ enter a fun fact about yourself below:
 
 ---
 
-approval status: ___
+approval status: approved
 
-signed by: ___
+signed by: AD
+
+July 2, 2024
