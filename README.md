@@ -3,10 +3,10 @@
 ---
 
 add your name to this file below:
-[*enter name here*]
+[Tejas Bojanapati]
 
 enter a fun fact about yourself below:
-[*enter fun fact here*]
+[I like chocolate ice cream]
 
 ---
 
@@ -34,6 +34,8 @@ enter a fun fact about yourself below:
 
 ---
 
-approval status: ___
+approval status: Approved
 
-signed by: ___
+signed by: AD
+
+07/01/24
