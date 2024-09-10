@@ -3,10 +3,10 @@
 ---
 
 add your name to this file below:
-[*enter name here*]
+Oliver Cai
 
 enter a fun fact about yourself below:
-[*enter fun fact here*]
+I missed all of training since I had a concurrent class at the exact time.
 
 ---
 
@@ -34,6 +34,7 @@ enter a fun fact about yourself below:
 
 ---
 
-approval status: ___
+approval status: Approved
 
-signed by: ___
+signed by: TB
+date = September 9, 2024
